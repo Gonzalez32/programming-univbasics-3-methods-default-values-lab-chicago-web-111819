@@ -5,4 +5,6 @@ puts "A plate of #{protein} with #{veg1} and #{veg2}."
 end
 
 
-# some-how I pass the test!  
+# some-how I pass the test! 
+# An error occurred while loading ./spec/meal_choice_spec.rb.
+Failure/Error: CREATED_FILES.each{ |f| require f }
